@@ -1,0 +1,16 @@
+.maindiv {
+  justify-content: space-evenly;
+}
+.boxdiv {
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 10px;
+}
+.h2 {
+  font-family: "Times New Roman", Times, serif;
+}
+.price {
+  padding: 10px 0px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
